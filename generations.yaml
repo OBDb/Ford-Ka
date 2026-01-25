@@ -1,15 +1,23 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Ka"
+
 generations:
-  - name: "First Generation"
+  - name: "First Generation (BE146)"
     start_year: 1996
     end_year: 2008
-    description: "The original Ford Ka was a revolutionary small car designed by Claude Lobo and Chris Svensson, featuring distinctive 'New Edge' styling with unusual circular headlamps and prominent wheel arches. Built on a shortened version of the Mk4 Fiesta platform, it was characterized by its compact dimensions (just 3.6 meters long) and light weight (under 950 kg). Powered primarily by a 1.3L Endura-E engine with 59 HP, it emphasized fun handling over straight-line performance with responsive steering and a playful chassis. The minimalist interior featured exposed painted metal, unique circular design elements, and basic equipment levels to keep costs down. Later special editions added more features and unique styling. Despite its age, the first-generation Ka maintained strong sales throughout its unusually long 12-year production run, establishing itself as a style icon and popular choice for city driving. Over 1.4 million units were produced of this generation."
+    description: "The original Ford Ka was a revolutionary small city car designed by Claude Lobo and Chris Svensson, featuring distinctive 'New Edge' styling with unusual circular headlamps. Built on a shortened Mark 3 Ford Fiesta platform (BE146), it was characterized by compact dimensions (approximately 3.6 meters long) and light weight. Powered primarily by a 1.3L Endura-E engine with 60 HP, it emphasized fun handling over straight-line performance. The minimalist interior featured exposed painted metal and unique circular design elements. Body styles included a 3-door hatchback, 2-door convertible (StreetKa built by Pininfarina), and a 3-door van. Special editions like SportKa (2005-2008) added performance variants. Production ended in 2008 after a 12-year run, with over 1.4 million units produced across Spain (Almussafes), Brazil (São Bernardo do Campo), and Italy."
 
-  - name: "Second Generation"
+  - name: "Second Generation - European (B420)"
     start_year: 2008
     end_year: 2016
-    description: "The second-generation Ka abandoned the distinctive styling of its predecessor for a more conventional design based on the Fiat 500/Panda platform, developed in partnership with Fiat and built in Poland. Slightly larger than its predecessor, it was powered by either a 1.2L petrol engine with 69 HP or a 1.3L diesel with 75 HP, both Fiat-sourced units. The interior featured a more modern design with improved materials and available features including Bluetooth connectivity and voice control. A performance-oriented Ka Sport model with a 1.6L engine was offered in some markets. While this generation offered improved refinement, safety, and equipment levels compared to its predecessor, it lost some of the original's character and unique positioning. European production ended in 2016, though the model continued in South America as the Ka+ with different specifications."
+    description: "The European second-generation Ka was developed and built by Fiat in Tychy, Poland, sharing the Fiat 500/Panda platform. Unlike its predecessor, it featured more conventional styling with a 3-door hatchback body style. Engine options included a 1.2L Duratec petrol (69 PS, 102 Nm) and a 1.3L Duratorq diesel (75 PS, 145 Nm), both Fiat-sourced with CO2 emissions under 120 g/km. Interior featured improved materials with optional Bluetooth, USB port, and voice control. The suspension was retuned from the Fiat 500 with a rear antiroll bar for improved ride quality. Ford Individual packages (Tattoo/Grand Prix/Digital) offered customization options. Production ended May 20, 2016."
 
-  - name: "Third Generation (Ka+)"
-    start_year: 2016
-    end_year: 2019
-    description: "The final European Ka, renamed Ka+, was significantly larger than previous generations, positioning it as a value-oriented alternative in the B-segment rather than an A-segment city car. Based on the global Ford platform used for the Fiat Figo and developed primarily for emerging markets like India and Brazil, it featured conventional five-door hatchback styling. Powered by a 1.2L three-cylinder Ti-VCT engine with either 70 or 85 HP in most European markets, it emphasized practicality and value over style or driving dynamics. The interior was significantly more spacious than previous Ka models, with improved equipment including SYNC 3 infotainment on higher trims. A crossover-inspired 'Active' variant with raised ride height and body cladding was added in 2018. This generation represented a significant shift in the Ka's positioning, losing the distinctive character of the original model in favor of practicality and affordability. Declining sales and changing emissions regulations led to its discontinuation in Europe in 2019, though production continued in some markets."
+  - name: "Second Generation - Latin American (B402)"
+    start_year: 2008
+    end_year: 2013
+    description: "The Latin American second-generation Ka was a separate model developed and built in Brazil (São Bernardo do Campo), based on the first-generation Ka chassis with redesigned exterior using Ford's 'Kinetic Design' language. Longer than the European version at 3836mm, it competed in the subcompact class with a redesigned rear seat accommodating five passengers. Engines were 1.0L and 1.6L Zetec Rocam flex-fuel four-cylinder engines. A mid-cycle facelift was introduced in 2011 following the Kinect concept car. Unlike the European version, this model was not sold in Mexico."
+
+  - name: "Third Generation"
+    start_year: 2014
+    end_year: 2020
+    description: "The third-generation Ka was developed by Ford Brazil as a global B-segment model, marketed in Europe as 'Ka+' to distinguish it from previous city car generations. Built on Ford's global B-car platform (shared with Fiesta), it was significantly larger at 3886-3929mm with a 2491mm wheelbase. Available as 5-door hatchback and 4-door sedan (Aspire in India). European models featured a 1.2L Ti-VCT engine (70-85 PS). The range was expanded to include the Ka+ Active crossover variant in 2018 with raised ride height and body cladding. Production in Europe ended September 2019, while Brazilian production continued until January 2021."
